@@ -1,7 +1,7 @@
 # Game-Of-Life
 John Conway's Game of Life is about cellular automation and complex patterns.
 
-Brought to life with React, JavaScript, and CSS. 
+Brought to life with React, JavaScript, and CSS. Following the tutorial of Charlee Li!
 
 *The rules:* </br>
 *1. Any live cell with fewer than two live neighbors dies, as if caused by under population.* <br/>
